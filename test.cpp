@@ -291,19 +291,19 @@ int32_t main(int32_t argc, char *argv[])
 {
     MailInfo sMail;
 
-    sMail.setReplyTo("shawn.yh.kim@worksmobile.com");
+    sMail.setReplyTo("oaeuaouoau@oeuouaeaoeua.com");
     sMail.setMimeId("123456789123456789.123456789.123456798");
     sMail.setSubjectAttr("Hey");
     sMail.setThreadId("<21f1d6879abdeb02cc8903883aed995@cvweditor01.nmdf.nhnsystem.com>");
-    sMail.setSubject("RE: [압수수색영장전달] 웍스모바일 정보 제공 요청의 압수수색영장 전달드립니다.");
+    sMail.setSubject("RE: [압수수색영장전달] 정보 제공 요청의 압수수색영장 전달드립니다.");
     sMail.setCharsetConversion("utf-8");
-    sMail.setBcc("shawn.yh.kim@worksmobile.com");
-    sMail.setCc("shawn.yh.kim@worksmobile.com");
-    sMail.setMessageId("<ec3e40f5f415e76157d2e3f64acfa79@cvweditor01.nmdf.nhnsystem.com>");
-    sMail.setPersonalDomainEmail("shawn.yh.kim@worksmobile.com");
-    sMail.setHeaderTo("shawn.yh.kim@worksmobile.com");
-    sMail.setHeaderFrom("shawn.yh.kim@worksmobile.com");
-    sMail.setPreview("안녕하세요. 한성숙입니다. 이미 보도된 것처럼, "
+    sMail.setBcc("uaoeunthaountaon@anotheuraochuraoul.com");
+    sMail.setCc("uaoeunthaountaon@anotheuraochuraoul.com");
+    sMail.setMessageId("<ec3e40f5f415e76157d2e3f64acfa79@aoeunaothu.eoauau.aonethura.com>");
+    sMail.setPersonalDomainEmail("alohuarohuraohlorheul@aoeruharoul.com");
+    sMail.setHeaderTo("alohuarohuraohlorheul@waoeruharoul.com");
+    sMail.setHeaderFrom("alohuarohuraohlorheul@aoeruharoul.com");
+    sMail.setPreview("안녕하세요. 이미 보도된 것처럼, "
                      "과거 우리 회사가 비공식적인 경로를 통해 특정인들의 자녀에게 "
                      "혜택을 제공한 불미스러운 일들이 있었습니다. "
                      "직원 여러분들이 각자의 자리에서 투명하고 깨끗한 "
